@@ -1,6 +1,7 @@
 # BoToBin3D: From Plastic to 3D Creativity ♻️🖨️
 
 **Author:** Palma Orlando
+
 **Project:** Dalla Plastica alla Creatività 3D (Circular Economy Project Work)
 
 BoToBin3D is an innovative circular economy ecosystem designed for university campuses. The project addresses the massive environmental impact of plastic waste by collecting used plastic bottles and transforming them into sustainable filament for 3D printing. The name encapsulates the entire lifecycle of our mission: **Bo**ttle ➔ **To** ➔ **Bin** ➔ **3D**.
@@ -39,4 +40,4 @@ BoToBin3D actively contributes to multiple UN SDGs:
 * **Goal 12 (Responsible Consumption and Production):** Reducing single-use plastics and the need to extract virgin raw materials.
 * **Goal 13 (Climate Action):** Lowering CO₂ emissions by reducing the production and transport of new plastics.
 * **Goal 14 (Life Below Water):** Preventing plastic waste from entering marine ecosystems.
-* **Goal 17 (Partnerships for the Goals):** Collaborating with universities, recycling companies, and students to achieve common sustainability objectives[cite: 148, 155].
+* **Goal 17 (Partnerships for the Goals):** Collaborating with universities, recycling companies, and students to achieve common sustainability objectives.
